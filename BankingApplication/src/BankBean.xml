@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+<!--<bean id="accountbean" class="com.bank.accounts.Account" >
+
+</bean>-->
+<bean id="Savingaccountbean" class="com.bank.accounts.SavingAccount" >
+</bean>
+<bean id="Currentaccountbean" class="com.bank.accounts.CurrentAccount" >
+</bean>
+
+<bean id="cacustomerbean" class="com.bank.customers.Customer">
+<property name="account" ref="Currentaccountbean" />
+</bean>
+
+<bean id="sacustomerbean" class="com.bank.customers.Customer">
+<property name="account" ref="Savingaccountbean" />
+</bean>
+</beans>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+
+<hibernate-mapping>
+
+<class name="com.bank.customers.Customer" table="Customer">
+<id name= "customerID" column="CUST_ID" type="string">
+<generator class="assigned"></generator>
+</id>
+<property name="customerName" column="CUSTOMER_NAME" type="java.lang.String" />
+<property name="customerAddress" column="CUSTOMER_ADDRESS" type="java.lang.String"/>
+<property name="dateofBirth" column="CUSTOMER_DOB" type="java.lang.String"/>
+<property name="contactNumber" column="CONTACT_NUMBER" type="java.lang.String"/>
+<one-to-one name="account" class="com.bank.accounts.Account" cascade="save-update"></one-to-one>
+</class>
+
+
+
+
+<class name="com.bank.accounts.Account" table="Account" >
+<id name="accountNumber" column="ACCT_NUMBER" type="java.lang.String" >
+<generator class="assigned" />
+</id>
+<discriminator column="dcolumn" type="java.lang.String" length="5"/>
+<property name="currBalance" column="CURR_BALANCE" />
+
+
+
+<!--related to Account Subclass CurrentAccount  -->
+<subclass name="com.bank.accounts.CurrentAccount" discriminator-value="CA">
+<property name="caminimumBalance" column="CA_Minimum_BAL" type="float" />
+</subclass>
+
+
+<!--related to Account Subclass SavingAccount  -->
+<subclass name="com.bank.accounts.SavingAccount" discriminator-value="SA">
+<property name="interestRate" column="Interest_rate" type="float"/>
+<property name="saminimumBalance" column="SA_Minimum_BAL" type="float"/>
+</subclass>
+
+</class>
+
+</hibernate-mapping>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-adapters-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-api-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aop-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aop-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aspects-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aspects-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aspects-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-beans-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-beans-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-beans-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-build-src-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-support-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-support-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-context-support-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-core-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-core-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-core-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-expression-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-expression-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-expression-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-tomcat-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-tomcat-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-instrument-tomcat-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jdbc-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jdbc-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jdbc-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jms-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jms-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-jms-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-orm-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-orm-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-orm-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-oxm-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-oxm-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-oxm-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-test-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-test-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-test-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-tx-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-tx-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-tx-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-web-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-web-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-web-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-portlet-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-portlet-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-webmvc-portlet-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-websocket-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-websocket-4.0.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-websocket-4.0.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/spring-framework-4.0.0.M1-dist/spring-framework-4.0.0.M1/libs/spring-aop-4.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Administrator/My Documents/Downloads/hibernatejar/xerces-2.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
